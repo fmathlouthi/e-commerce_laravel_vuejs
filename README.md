@@ -1,15 +1,8 @@
 <p align="center">
-<a href="http://www.bagisto.com"><img src="https://bagisto.com/wp-content/themes/bagisto/images/logo.png" alt="Total Downloads"></a>
+E-COMMERCE LARAVEL VUE JS
 </p>
 
-<p align="center">
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
-<a href="https://github.com/bagisto/bagisto/actions"><img src="https://github.com/bagisto/bagisto/workflows/CI/badge.svg" alt="Backers on Open Collective"></a>
-<a href="#backers"><img src="https://opencollective.com/bagisto/backers/badge.svg" alt="Backers on Open Collective"></a>
-<a href="#sponsors"><img src="https://opencollective.com/bagisto/sponsors/badge.svg" alt="Sponsors on Open Collective"></a>
-</p>
+
 
 ## Topics
 1. [Introduction](#introduction)
@@ -22,19 +15,6 @@
 8. [Miscellaneous](#miscellaneous)
 
 ### Introduction
-
-[Bagisto](https://www.bagisto.com) is a hand tailored E-Commerce framework built on some of the hottest opensource technologies
-such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
-a progressive Javascript framework.
-
-**Bagisto can help you to cut down your time, cost, and workforce for building online stores or migrating from physical stores
-to the ever demanding online world. Your business -- whether small or huge -- can benefit. And it's very simple to set it up.**
-
-**Read our documentation: [Bagisto Docs](https://devdocs.bagisto.com/)**
-
-**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Bagisto Forums](https://forums.bagisto.com/)**
-
-# Visit our live [Demo](https://demo.bagisto.com)
 
 It packs in lots of features that will allow your E-Commerce business to scale in no time:
 
@@ -60,7 +40,7 @@ Take advantage of two of the hottest frameworks used in this project -- Laravel 
 
 ### Documentation
 
-#### Bagisto Documentation [https://devdocs.bagisto.com](https://devdocs.bagisto.com)
+
 
 ### Requirements
 
@@ -133,53 +113,3 @@ password:admin123
 
 > *http(s)://example.com/customer/register*
 
-
-### License
-Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/bagisto/bagisto/blob/master/LICENSE).
-
-### Security Vulnerabilities
-Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Bagisto then please email us: mailto:support@bagisto.com.
-
-### Modules
-[Available Modules](https://bagisto.com/en/extensions)
-
-Need something else? Email us at support@bagisto.com.
-
-### Miscellaneous
-
-#### Contribute
-
-Bagisto is a community driven project, we appreciate every contribution from the community
-
-- If you found an issue that you think we should know about, or if you have a suggestion, please submit an issue.
-- If you want to submit a solution or offer a new feature, please create a pull request.
-
-Please read our [contributing guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md) for more info.
-
-#### Contributors
-
-This project is on [Open Collective](https://opencollective.com/bagisto) and it exists thanks to the people who contribute.
-
-<a href="https://github.com/bagisto/bagisto/graphs/contributors"><img src="https://opencollective.com/bagisto/contributors.svg?width=890&button=false"/></a>
-
-#### Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/bagisto#contributors" target="_blank"><img src="https://opencollective.com/bagisto/backers.svg?width=890"></a>
-
-#### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-<div>
-    <a href="https://opencollective.com/bagisto/contribute/sponsor-7372/checkout" target="_blank">
-        <img src="https://images.opencollective.com/static/images/become_sponsor.svg">
-    </a>
-</div>
-
-<kbd>
-    <a href="http://e.ventures/" target="_blank">
-        <img src="https://images.opencollective.com/e-ventures1/7d61db2/logo.png" height="75">
-    </a>
-</kbd>
